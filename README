@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4551
+
+A plugin to make it easier to work with the Processing language in vim. It is originally based on https://github.com/sophacles/vim-processing, which was in turn an extension of vim script #2115.
+
+Please note that this plugin has currently only been tested on OS X. I would love to hear from you if you use this plugin (successfully or otherwise) on Windows or Linux.
+
+Features:
+* Syntax highlighting
+* Documentation lookup
+* Run sketches from within vim
+
+For more detailed information, please see the project on GitHub here: https://github.com/willpragnell/vim-reprocessed
